@@ -12,9 +12,7 @@ p {
     font-size: 20px;
 }
 
-.navbar {
-    background-color: #c0f1fa !important;
-}
+h1 {class="text-muted";}
 
 button {
 	font-size: 40px;
