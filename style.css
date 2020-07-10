@@ -12,7 +12,8 @@ p {
     font-size: 20px;
 }
 
-h1 {class="text-muted";}
+h1 { color: "text-muted";
+}
 
 button {
 	font-size: 40px;
@@ -26,5 +27,5 @@ button {
 	box-shadow: inset 0 0 0 0.5rem $prime
 	
 	border: solid 5px;
-	border-radius: 5px; <!--Abrundungen der Rahmen erwünscht?-->
+	border-radius: 5px; <!-Abrundungen->
 	}
