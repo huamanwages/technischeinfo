@@ -12,3 +12,17 @@ p {
     font-size: 20px;
 }
 
+button {
+	font-size: 40px;
+	font-family: Arial;
+
+	margin-top: 110px;
+	padding: 10px, 20px;
+	
+	color: #363533;
+	background: #e8cb3c;
+	box-shadow: inset 0 0 0 0.5rem $prime
+	
+	border: solid 5px;
+	border-radius: 5px; <!--Abrundungen der Rahmen erwünscht?-->
+	}
